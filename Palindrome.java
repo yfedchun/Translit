@@ -47,13 +47,6 @@ public class Palindrome {
                 }
 
             }//end for loop
-
-  //System.exit(0);
-         //set match flag
-            //       boolean match;
-
-// start comparing strings
-
         }//end of main()
     } // end of class method
 
